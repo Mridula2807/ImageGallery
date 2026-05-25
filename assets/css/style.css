@@ -1,0 +1,46 @@
+.index-body{
+     background-color:black; 
+}
+.one-th {
+    width:500px;
+    height:100px;
+    font-size:45px;
+    color:white;
+    text-shadow: 2px 2px 4px rgb(86, 205, 214);
+}
+.two-th{
+    width:500px;
+    height:100px;
+    font-size:30px;
+}
+.table-tr{
+    height:400px;
+}
+.table-td{
+    width:100px;
+}
+.table1-td{
+    width:600px;
+}
+img{
+    border-radius:10%;
+    box-shadow:1px 1px 5px 5px rgb(47, 48, 52);
+    border: 10px groove white;
+}
+.fa-youtube{
+    color:red;
+}
+.fa-whatsapp{
+    color:rgb(21, 186, 21);
+}
+.fa-facebook{
+    color: rgb(67, 143, 250);
+}
+.fa-twitter{
+    color: rgb(67, 143, 250);
+}
+img{
+    width:150px;
+    height:90px;
+}
+

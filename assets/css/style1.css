@@ -1,0 +1,112 @@
+body{
+    position: absolute;    
+}
+.index-body{
+     background-color: rgb(21, 20, 20); 
+}
+.dog-th{
+    width:900px;
+    height:60px;
+    font-size:30px;
+    color:rgb(76, 199, 84);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dog1-td{
+     height:300px;
+     width:350px;
+    
+}
+.dog2-td{
+    font-family:cursive;
+    color: white;
+    padding-left:40px;
+}
+.one-img{
+    width:200px;
+    height:200px;
+    border: 15px groove white;
+    border-radius:10%;
+    box-shadow:1px 1px 4px 4px rgb(75, 185, 197);
+}
+.calf-th{
+    width:900px;
+    height:60px;
+    font-size:45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(76, 199, 84);
+}
+.one-span{
+    font-size:23px;
+}
+i{
+    color:white;
+}
+.two-span{
+    font-size:45px;
+    padding-left:300px;
+    text-shadow: 2px 3px 5px;
+} 
+.three-span{
+    font-size:45px;
+    padding-left:235px;
+    text-shadow: 2px 3px 5px;
+} 
+.four-span{
+    font-size:45px;
+    padding-left:280px;
+    text-shadow: 2px 3px 5px;
+}
+.five-span{
+    font-size:45px;
+    padding-left:245px;
+    text-shadow: 2px 3px 5px;
+}
+.cat-th{
+    width:900px;
+    height:60px;
+    font-size:45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(76, 199, 84);
+}
+.dove-th{
+    width:900px;
+    height:60px;
+    font-size:45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(76, 199, 84);
+}
+.lovebirds-th{
+    width:900px;
+    height:60px;
+    font-size:45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(76, 199, 84);
+}
+.rabbit-th{
+    width:900px;
+    height:60px;
+    font-size:30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(76, 199, 84);
+}
+.parrot-th{
+    width:900px;
+    height:60px;
+    font-size:45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(76, 199, 84);
+}
+.pigeon-th{
+    width:900px;
+    height:60px;
+    font-size:45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(76, 199, 84);
+}
+.duck-th{
+    width:900px;
+    height:60px;
+    font-size:45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(76, 199, 84);
+}
